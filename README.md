@@ -1,5 +1,5 @@
 # juliewang2020.github.io
-###### This is my personal website to share my experience and projects!
+### This is my personal website to share my experience and projects!
 
 Base Template from HTML5Up Designs: 
 <ul>
