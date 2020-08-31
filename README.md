@@ -2,7 +2,9 @@
 Personal Website
 
 Base Template from HTML5Up Designs: 
-https://html5up.net/dimension
+<ul>
+  <li>https://html5up.net/dimension</li>
+</ul>
 
 Codepen Snippets Used: 
 <ul>
